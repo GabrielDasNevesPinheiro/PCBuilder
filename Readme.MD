@@ -1,4 +1,4 @@
-# O projeto UBuild
+# O projeto PCBuilder
 <p style="font-size: 2rem">Um sistema de montagem de computador onde teremos as peças principais:</p> 
 
 * <p style="font-size: 1.2rem">Processador</p>
